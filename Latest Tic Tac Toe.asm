@@ -1,5 +1,5 @@
-#Muhammad Lukman Bin Roslan (1624929)
-#Muhammad Laziem Bin Shafie (1621781)
+#Muhammad Lukman Bin Roslan (1624929) (lukmanroslan57@gmail.com)
+#Muhammad Laziem Bin Shafie (1621781) (muhdlaziem97@gmail.com)
 #Tic-Tac-Toe Project
 
 #data that initialized
